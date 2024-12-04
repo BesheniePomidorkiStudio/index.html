@@ -1,0 +1,28 @@
+
+p {	
+	font color: "#FFFFFF";
+	font-family: "Comic Sans MS";
+}
+td {	
+	font-style: italic;
+	font-weight: bold;
+	text-align='justify'
+	width: 200px;
+	height: 100px;
+}
+
+#parent {
+	width: 400px;
+	border: 10px solid red;
+	}
+#child {
+	margin-top:    10px; /* сверху */
+	margin-right:  20px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   40px; /* слева */
+	
+	height: 100px;
+	border: 10px solid green;
+	}
+	
+	
